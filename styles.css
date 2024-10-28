@@ -1,0 +1,12 @@
+.body {
+    display: flex;
+    margin:auto;
+}
+
+.flex-box {
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
