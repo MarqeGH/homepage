@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Tormod's place",
-  description: "Tormod's place for stuff",
+  title: "Tormod&apos;s place",
+  description: "Tormod&apos;s place for stuff",
 };
 
 export default function RootLayout({
@@ -26,7 +26,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>Tormod's place</title>
+        <title>Tormod&apos;s place</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta charSet="UTF-8" />
       </head>
